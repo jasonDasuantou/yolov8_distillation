@@ -40,6 +40,9 @@ python train_distillation.py
 
 # 提示
 1.准备好配置环境
+
 2.准备好（训练好的）老师模型和（训练好的）学生模型
+
 3.更改写在类Distillation_loss的 channels_s和channels_t，将通道数改成自己模型的通道数
-csdn上有详细教程，链接：
+
+csdn上有详细教程，链接：https://blog.csdn.net/W_extend/article/details/140902235?spm=1001.2014.3001.5502
